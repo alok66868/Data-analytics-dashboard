@@ -38,24 +38,27 @@ A comprehensive, end-to-end data analytics application built with **Streamlit**.
 
 1. **Clone the repository:**
    
-git clone https://github.com/your_username/finance-analytics-dashboard.git
+    git clone https://github.com/your_username/finance-analytics-dashboard.git
 
 
 
 3. **Activate your virtual environment:**
 
-.\venv\Scripts\activate
+    python -m venv venv
+
+    .\venv\Scripts\activate
 
 
 
 4. **Install dependencies:**
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 
 4. **Run the application:**
 
-streamlit run app.py
+     streamlit run app.py
+
 
 
