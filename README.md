@@ -38,7 +38,7 @@ A comprehensive, end-to-end data analytics application built with **Streamlit**.
 
 1. **Clone the repository:**
    
-git clone https://github.com/alok66868/finance-analytics-dashboard.git
+git clone https://github.com/your_username/finance-analytics-dashboard.git
 
 
 
@@ -57,4 +57,5 @@ pip install -r requirements.txt
 4. **Run the application:**
 
 streamlit run app.py
+
 
