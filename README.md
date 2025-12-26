@@ -66,9 +66,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-
-
-
----
-
-**Kya aap chahte ho ki main "Automated Insights" wala code part bhi check karun ki wo sahi se optimize hai ya nahi?**
